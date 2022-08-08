@@ -24,21 +24,14 @@
   align-items: center;
   justify-content: center;
   font-size: small;
-
 }
 
 .qrcode {
-  position:relative;
-  top:0;
-  left:0;
-  justify-content: center;
-  width: 100px;
-  
 }
 
-
 .qrcode img {
-  justify-content: center;
-  width: 100px;
-  
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
