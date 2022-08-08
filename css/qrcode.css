@@ -27,13 +27,9 @@
 
 }
 
-.qrcodex {
-  width:200px;
-  height:200px;
-  margin: 0px auto;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.qrcode {
+  position:relative;
+  top:0;
+  left:0;
   
 }
